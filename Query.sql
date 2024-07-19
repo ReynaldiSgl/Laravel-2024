@@ -1,4 +1,4 @@
-//Membuat Tabel
+--Membuat Tabel
 CREATE TABLE Kategori (
    kode_kategori INT PRIMARY KEY,
    nama VARCHAR (255)
@@ -13,7 +13,7 @@ CREATE TABLE produk (
    FOREIGN KEY (kategori_kode) REFERENCES kategori (kode_kategori)
 );
 
-//Menambahkan Data
+--Menambahkan Data
 INSERT INTO kategori (kode_kategori,nama)
 VALUES (111,'Elektronik'),
 (222,'Pakaian'),
@@ -27,17 +27,17 @@ VALUES (1,'Televisi', 3000000.00, 10, 111),
 (5,'Coklat', 20000, 200, 333),
 (6,'Keripik Kentang', 1500, 150, 333);
 
-//Menghapus Data
+--Menghapus Data
 DELETE FROM produk WHERE kode_produk = 3;
 DELETE FROM kategori WHERE kode_kategori = 333;
 
-//Mengubah/Mengupdate Data
+--Mengubah/Mengupdate Data
 UPDATE produk SET 
 nama = 'Kulkas', 
 harga= 'masukkan Harga yang terbaru'
 stok = 'masukkan jumlah stok yang terbaru'
 WHERE kode_produk = 1;
 
-//Menampilkan Data
+--Menampilkan Data
 SELECT * FROM produk; 
 SELECT * FROM dosen WHERE kode_produk = 1;
