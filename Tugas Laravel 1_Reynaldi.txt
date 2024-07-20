@@ -1,0 +1,35 @@
+Nama: Reynaldi Kristanto B.S    
+Tugas: TUGAS LARAVEL 1
+
+1. Apa yang dimaksud dengan Laravel?
+Jawab:
+
+2. Siapakah pencipta Laravel?
+Jawab:a) Taylor Otwell
+
+
+3. Manakah dari pernyataan berikut yang benar tentang Laravel?
+Jawab:b) Laravel memudahkan pengembangan aplikasi web dengan PHP
+
+
+4. Apakah tujuan Utama dari Laravel?
+Jawab:a) Mempermudah pengembangan aplikasi web dengan PHP
+
+
+5. Fungsi apa yang tidak termasuk dalam fitur-fitur Laravel?
+Jawab:d) Graphics Design
+  
+6. Apa yang dimaksud dengan "Eloquent" dalam konteks Lravel?
+Jawab:c) Sebuah fitur yang memudahkan interaksi dengan database menggunakan model
+
+7. Fitur apa yang memungkinkan anda mengelola dependencies dalam proyek Laravel?
+Jawab:a) Composer
+
+8. Bagaimana cara menginstal Laravel?
+Jawab:b) Menggunakan perintah `composer create-project laravel/laravel nama-proyek`
+
+9. Apa yang dimaksud dengan "Blade" dalam Laravel?
+Jawab:b) Sebuah template engine bawaan Laravel
+
+10. Apa yang dimaksud dengan "Middleware" dalam konteks Laravel?                         
+Jawab:b) Sebuah lapisan yang ditempatkan di antara permintaan masuk dan respons keluar
