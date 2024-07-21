@@ -2,7 +2,7 @@ Nama: Reynaldi Kristanto B.S
 Tugas: TUGAS LARAVEL 1
 
 1. Apa yang dimaksud dengan Laravel?
-Jawab:
+Jawab:b) Sebuah kerangka kerja (framework) PHP
 
 2. Siapakah pencipta Laravel?
 Jawab:a) Taylor Otwell
